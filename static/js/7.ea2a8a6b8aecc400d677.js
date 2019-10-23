@@ -1,0 +1,2 @@
+webpackJsonp([7],{W8na:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var a={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("pageTop"),this._v(" "),e("h1",[this._v("联系我们页")]),this._v(" "),e("router-link",{attrs:{to:{path:"/page/123",query:{param:{name:"123",val:"456"}}}}},[this._v(" 跳转到通配页 ")]),this._v(" "),e("pageFooter")],1)},staticRenderFns:[]},r=n("VU/8")({name:"contact",data:function(){return{}}},a,!1,null,null,null);e.default=r.exports}});
+//# sourceMappingURL=7.ea2a8a6b8aecc400d677.js.map
